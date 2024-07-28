@@ -34,7 +34,7 @@ const Ubton = () => {
           </p>
           <UploadForm />
           <div className="modal-action">
-            <button onClick={closeModal} className="btn glass">
+            <button onClick={closeModal} className="btn btn-outline">
               Exit
             </button>
           </div>
